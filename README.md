@@ -1,5 +1,5 @@
 # Hi, I'm Jonathan Tsui  
-**Junior Data Analyst | Toronto Native | Based in Madrid**  
+**Junior Data Analyst | From Toronto, Canada | Based in Madrid**  
 
 Welcome to my GitHub! I'm a motivated Junior Data Analyst, excited to bring together my technical abilities and diverse experiences to solve real-world problems with data.  
 
