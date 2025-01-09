@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a motivated Junior Data Analyst, excited to bring toge
 ## About Me  
 After earning my **Bachelor of Commerce in Information Technology Management** at Toronto Metropolitan University, I embarked on a unique journey—traveling, teaching English in Japan and Thailand, and honing my leadership skills as a chef and baker. Along the way, I developed a strong foundation in adaptability, problem-solving, and teamwork.  
 
-During a career break as a full-time parent, I rediscovered my passion for technology and data, leading me to complete a 9-week Data Analytics Bootcamp at Ironhack. Through hands-on projects, I gained experience solving real-world problems by analyzing complex datasets, building predictive models, creating dynamic dashboards, and uncovering actionable insights to drive decision-making.
+During a career break as a full-time parent, I rediscovered my passion for technology and data, leading me to complete a **9-week (+400hrs) Data Analytics Bootcamp at Ironhack**. Through hands-on projects, I gained experience solving real-world problems by analyzing complex datasets, building predictive models, creating dynamic dashboards, and uncovering actionable insights to drive decision-making.
 
 ---
 
@@ -23,7 +23,7 @@ Here are a few projects that showcase my skills:
 
 ---
 
-## 🛠️ Technologies & Tools  
+## Technologies & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -47,5 +47,5 @@ I'm actively seeking a **remote data analytics role** where I can apply my techn
 
 ---
 
-### 💡 Fun Fact  
+### Fun Fact  
 I trained for and completed my first marathon (42.2 km in 3:54) within a year of starting running and while caring for my young son—proof that I thrive under pressure and love tackling challenges!  
