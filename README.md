@@ -1,7 +1,7 @@
 # Hi, I'm Jonathan Tsui  
 **Junior Data Analyst | Toronto Native | Based in Madrid**  
 
-Welcome to my GitHub! I'm a passionate Junior Data Analyst, excited to bring together my technical expertise and diverse experiences to solve real-world problems with data.  
+Welcome to my GitHub! I'm a motivated Junior Data Analyst, excited to bring together my technical abilities and diverse experiences to solve real-world problems with data.  
 
 ---
 
@@ -27,11 +27,19 @@ Here are a few projects that showcase my skills:
 
 ---
 
-## Technical Skills  
-- **Programming & Libraries**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels  
-- **Data Visualization & BI Tools**: Tableau, Excel  
-- **Database Management**: SQL  
-- **Tools & IDEs**: Jupyter Notebooks, VS Code, Cursor  
+## 🛠️ Technologies & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Cursor](https://img.shields.io/badge/Cursor-555555?style=for-the-badge)  
 
 ---
 
