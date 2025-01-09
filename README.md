@@ -8,11 +8,7 @@ Welcome to my GitHub! I'm a motivated Junior Data Analyst, excited to bring toge
 ## About Me  
 After earning my **Bachelor of Commerce in Information Technology Management** at Toronto Metropolitan University, I embarked on a unique journey—traveling, teaching English in Japan and Thailand, and honing my leadership skills as a chef and baker. Along the way, I developed a strong foundation in adaptability, problem-solving, and teamwork.  
 
-During a career break as a full-time parent, I rediscovered my passion for technology and data. That realization inspired me to complete a **9-week Data Analytics Bootcamp at Ironhack**, where I gained hands-on experience in:  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn)  
-- **SQL** (querying, database management)  
-- **Tableau** (data visualization, dashboards)  
-- **Machine Learning** (supervised/unsupervised models, hyperparameter tuning)  
+During a career break as a full-time parent, I rediscovered my passion for technology and data, leading me to complete a 9-week Data Analytics Bootcamp at Ironhack. Through hands-on projects, I gained experience solving real-world problems by analyzing complex datasets, building predictive models, creating dynamic dashboards, and uncovering actionable insights to drive decision-making.
 
 ---
 
@@ -23,7 +19,7 @@ Here are a few projects that showcase my skills:
   Analyzed sales data of a bakery to enhance revenue and efficiency. Delivered actionable insights using BI techniques, KPIs, and dashboards.  
 
 - **[Vanguard A/B Testing](https://github.com/tsuijonathan/vanguard-ab-test)**  
-  Evaluated the impact of UI changes on user experience and completion rates. Conducted EDA, hypothesis testing, and created dashboards to visualize key findings.  
+  Evaluated the impact of UI changes on user experience and completion rates. Conducted EDA, calculated KPI's, hypothesis testing, and created dashboards to visualize key findings.  
 
 ---
 
@@ -52,4 +48,4 @@ I'm actively seeking a **remote data analytics role** where I can apply my techn
 ---
 
 ### 💡 Fun Fact  
-I trained for and completed my first marathon (42.2 km in 3:54) while caring for my young son—proof that I thrive under pressure and love tackling challenges!  
+I trained for and completed my first marathon (42.2 km in 3:54) within a year of starting running and while caring for my young son—proof that I thrive under pressure and love tackling challenges!  
