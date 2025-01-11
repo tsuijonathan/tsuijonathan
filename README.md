@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a motivated Junior Data Analyst, excited to bring toge
 ---
 
 ## About Me  
-After earning my **Bachelor of Commerce in Information Technology Management** at Toronto Metropolitan University, I embarked on a unique journey—traveling, teaching English in Japan and Thailand, and honing my leadership skills as a chef and baker. Along the way, I developed a strong foundation in adaptability, problem-solving, and teamwork.  
+After earning my **Bachelor of Commerce in Information Technology Management** at Toronto Metropolitan University, I embarked on a unique journey—traveling, teaching English in Japan and Thailand, and honing my leadership skills as a chef and baker. Along the way, I developed a strong foundation in adaptability, communication, and teamwork.  
 
 During a career break, I rediscovered my interest for technology and data, leading me to complete a **9-week intensive (+400hrs) Data Analytics Bootcamp at Ironhack**. Through hands-on projects, I gained experience solving real-world problems by analyzing complex datasets, building predictive models, creating dynamic dashboards, and uncovering actionable insights to drive decision-making.
 
