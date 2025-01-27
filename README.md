@@ -34,8 +34,7 @@ Here are a few projects that showcase my skills:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Cursor](https://img.shields.io/badge/Cursor-555555?style=for-the-badge)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ---
 
