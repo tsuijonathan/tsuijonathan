@@ -1,14 +1,32 @@
 # Hi, I'm Jonathan Tsui  
-**Junior Data Analyst | From Toronto, Canada | Based in Madrid**  
+**Data Analyst | From Toronto, Canada | Based in Madrid**  
 
-Welcome to my GitHub! I'm a motivated Junior Data Analyst, excited to bring together my technical abilities and diverse experiences to solve real-world problems with data.  
+Welcome to my GitHub! I help SaaS and data-driven teams turn technical user, product, and marketing data into decision-ready insights that drive growth, retention, and efficiency. By leveraging Python, SQL, Excel, and BI tools, I deliver reports with recommendations that define the right metrics, improve decision-making, and create measurable business value. 
 
 ---
 
 ## About Me  
-After earning my **Bachelor of Commerce in Information Technology Management** at Toronto Metropolitan University, I embarked on a unique journey—traveling, teaching English in Japan and Thailand, and honing my leadership skills as a chef and baker. Along the way, I developed a strong foundation in adaptability, communication, and teamwork.  
 
-During a career break, I rediscovered my interest for technology and data, leading me to complete a **9-week intensive (+400hrs) Data Analytics Bootcamp at Ironhack**. Through hands-on projects, I gained experience solving real-world problems by analyzing complex datasets, building predictive models, creating dynamic dashboards, and uncovering actionable insights to drive decision-making.
+My career path has been unconventional, spanning teaching, culinary leadership, and podcasting across Canada, Japan, Thailand, and now Madrid. At every stage, data, efficiency, and storytelling have been my constants. These experiences shaped my adaptability and ability to communicate insights clearly to both technical and non-technical stakeholders.
+
+At Tradler, I broke into analytics and quickly grew by applying the same grit and discipline I honed as a chef. I thrive in fast-moving, quick-pivoting environments where I can keep learning, deliver value, and get the job done.
+
+Focus areas
+
+Product analytics: KPIs, OKRs, cohort analysis, lifecycle, funnels, conversion, retention/churn
+
+Experimentation: hypothesis testing, A/B testing, causal/statistical modeling
+
+BI & reporting: Tableau, Looker Studio, Grafana, dashboard automation, executive-ready reporting
+
+Marketing analytics: GA4, Google Tag Manager, LinkedIn Ads, Meta Ads, Google Ads, attribution, ROI, lead funnels
+
+Communication: data storytelling for technical and non-technical audiences
+
+Tech stack: SQL, Python, Excel/Sheets
+
+AI-integrated Workflow:
+I use AI to speed analysis, validate SQL/Python, automate data cleaning, and produce concise stakeholder summaries.
 
 ---
 
